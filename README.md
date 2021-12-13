@@ -12,7 +12,7 @@ PacMen will appear in different sizes and shapes once the create pacman button i
   I'd like to add more pacmen characters, such as the pacman ghost and a lady pacman. 
   Syle the game to look closer to the arcade pacman game. 
   
-## Citation
+## Project Citation
 Based on code from the MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN course.
 
 ## License
